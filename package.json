@@ -1,0 +1,16 @@
+{
+  "name": "programs",
+  "version": "1.0.0",
+  "description": "programs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "author": "Vicky",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
